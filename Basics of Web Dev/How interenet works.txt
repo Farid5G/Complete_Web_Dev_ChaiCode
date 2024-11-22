@@ -1,0 +1,6 @@
+How internet works?
+Bascially your computer needs to connect to the server where the website is hosted. So it first goes to internet service provider(ISP) where it ask for the address of the domain Name Ex:-(Chaicode.com) but Unfortunately the ISP doesn't has the address so It further transfer the request to Domain Name Server (DNS) where all the ip addresses of the domain names are stored (You can also go to Nslookup and find the IP address of the domain Names) So as a response back to ISP then it finds the address and reach to the website and comeback to the browsers and show's you.
+
+Website Name = https://www.nslookup.io/
+
+You can inspect in browser and check all the networking jargan. 

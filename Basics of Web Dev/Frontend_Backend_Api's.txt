@@ -1,0 +1,4 @@
+This was all about Frontend Backend and Api's:
+Frontend composes of HTML, CSS & JS. Where if You add some additional resources such as tailwind/bootstrap to CSS and React/Angular to JS. You are like decent Mid Level Frontend engineer. Where as the backend composes of programming languages which could be any backend scripting langugage and a databases could be sql/NoSql etc. Once you know to write logic and talk to databases in any programming language you are considered as a junior backend engineer also There's one gate Between frontend and backend which is a API(Application programmable interface) A common JSON format that helps frontend to make request to the backend and wise versa. You can also give a good example of the hotel where you and your table is the frontend and the kitchen is the backend. The waiter behaves as  a API serves you in the common format (i.e plates).
+
+Site of diagrams: https://app.eraser.io/workspace/i5Upp5eposxGEjoJDgVM

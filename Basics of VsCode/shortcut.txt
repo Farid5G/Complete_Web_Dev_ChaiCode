@@ -1,0 +1,10 @@
+1. ctrl + shift + p = command pallate
+2. ctrl + p = navigating through files
+3. ctrl + b = side panel
+4. ctrl + arrow = navigate letter by letter
+5. ctrl + shift + arrow = to select a word 
+6. ctrl + enter = new line 
+7. alt + shift + downArrow = to duplicate the lines 
+8. alt + arrows(up and down) = to move the line up and down.
+9. ctrl + D = after highliting same words in the file.
+10. ctrl + ` = for the terminal. 

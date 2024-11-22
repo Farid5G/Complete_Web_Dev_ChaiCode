@@ -1,0 +1,1 @@
+Here We understood how the website is displayed into your web browser. In short It's just your computer sending request to the server and based on what you need whether it's a simple homePage request to complex database request. It figures out and then returns HTML, CSS & JS files back to your browser. which then make up a website.
